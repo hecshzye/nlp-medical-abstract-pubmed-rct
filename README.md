@@ -31,9 +31,7 @@ A natural language processing model for sequential sentence classification in me
 **Source** 
       
    **Name**: Randomized Controlled Trial: **RCT of a manualized social treatment for high-functioning autism spectrum disorders**.
-             
              (by Christopher Lopata, Marcus L Thomeer, etc.)
-             
              https://pubmed.ncbi.nlm.nih.gov/20232240/
              
              
