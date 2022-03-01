@@ -4,7 +4,7 @@ A natural language processing model for sequential sentence classification in me
 
 - The **objective** is to build a deep learning model which makes medical research paper abstract easier to read.
 
-- **Dataset** used in this project is the `PubMed 200k RCT Dataset for Sequential Sentence Classification in Medical Abstract` by Cornell University: https://arxiv.org/abs/1710.06071
+- **Dataset** used in this project is the `PubMed 200k RCT Dataset for Sequential Sentence Classification in Medical Abstract` on arxiv: https://arxiv.org/abs/1710.06071
 
 - The initial deep learning research paper was built with the PubMed 200k RCT.
 
